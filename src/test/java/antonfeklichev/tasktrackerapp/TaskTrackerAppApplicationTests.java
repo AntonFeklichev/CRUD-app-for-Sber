@@ -1,10 +1,10 @@
-package antonfeklichev.task_tracker_application;
+package antonfeklichev.tasktrackerapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class TaskTrackerApplicationTests {
+class TaskTrackerAppApplicationTests {
 
 	@Test
 	void contextLoads() {
